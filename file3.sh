@@ -1,2 +1,3 @@
 	echo "My First Git Project"
-echo "Hopw you all are Doing well"
+echo "Hope you all are Doing well"
+echo "Good Afternoon"
